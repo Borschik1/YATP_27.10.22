@@ -21,7 +21,7 @@ bool prime(int num) {
 
 int main() {
     Student mas[3];
-    mas[0] = { 19, "Gordon", "Coffe" };
+    mas[0] = { 19, "Gordon", "Coffee" };
     mas[1] = { 18, "Dante", "Beer" };
     mas[2] = { 23, "Lara", "Tea" };
 
